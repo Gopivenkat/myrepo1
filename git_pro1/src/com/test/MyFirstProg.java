@@ -4,7 +4,7 @@ public class MyFirstProg {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Hello world my program..");
+		System.out.println("Hello world my program.");
 
 	}
 
